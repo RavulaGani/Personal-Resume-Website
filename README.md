@@ -19,4 +19,4 @@ HTML5: For structuring the content.
 CSS3: For styling and layout design.
 Responsive Design: The design is responsive with appropriate text alignments, fonts, and formatting.
 Preview
-You can preview the layout by opening the index.html file in any modern browser.
+You can preview the layout by opening the resume.html file in any modern browser.
